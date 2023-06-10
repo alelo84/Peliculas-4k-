@@ -1,251 +1,856 @@
 #EXTM3U
-#EXTINF:0,DW
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
-#EXTINF:0,Cartoon network
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-#EXTINF:0,Alpavision
-https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
-#EXTINF:0,my time
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:0,Planeta TV Movies
-https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
-#EXTINF:0,Rakuten TV
-https://play.cdn.enetres.net/B9E570CFE54949C7ABB985D4F8F77F7F0211/02267/playlist.m3u8
-#EXTINF:0,planeta tv
-https://live.obslivestream.com/planetatv/index.m3u8
-#EXTINF:0,ID
-http://45.90.105.74:25461/bud-345182/c39d1f9282/11799
-#EXTINF:0,ENERGEEK
-https://wifispeed.trapemn.tv:1936/infantil/energeek-2/chunks.m3u8?
-#EXTINF:0,PlanetaTV
-https://mediacpstreamchile.com:1936/8152/8152/chunklist_w1433286802.m3u8
-#EXTINF:0,RckTV
-https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/chunklist_w2024512413.m3u8?WebM3UCL
-#EXTINF:0,Telered
-https://59ef525c24caa.streamlock.net/ARBtv/teleplus/chunklist_w401787576.m3u8?WebM3UCL
-#EXTINF:0,WOW TV
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w318245560_b1500000_slen.m3u8?WebM3UCL
-#EXTINF:0,CARTOONITO
-https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
-#EXTINF:0,CSTV
-https://videostreaming.cloudserverlatam.com/CSTV/CSTV/chunklist_w2059259225.m3u8?WebM3UCL
-#EXTINF:0,AZTV
-http://animezonetv.net/hls/stream.m3u8?WebM3UCL
-#EXTINF:0,History HD
-https://wisp.cdn.rcs.net.ar/mnp/history/output.mpd
-#EXTINF:0,Central Comedy
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=channel&amp;appName=rokuchannel&amp;appVersion=1.0&amp;bmodel=bm1&amp;channel_id=channel&amp;content=channel&amp;content_rating=ROKU_ADS_CONTENT_RATING&amp;content_type=livefeed&amp;coppa=false&amp;deviceDNT=1&amp;deviceId=channel&amp;deviceMake=rokuChannel&amp;deviceModel=web&amp;deviceType=rokuChannel&amp;deviceVersion=1.0&amp;embedPartner=rokuChannel&amp;genre=ROKU_ADS_CONTENT_GENRE&amp;is_lat=1&amp;platform=web&amp;rdid=channel&amp;studio_id=viacom&amp;tags=ROKU_CONTENT_TAGS
-#EXTINF:0,AE HD
-http://190.61.41.182:8000/play/a378/index.m3u8
-#EXTINF:0,AXN HD
-https://wisp.cdn.rcs.net.ar/mnp/axn/output.mpd
-#EXTINF:0,BabyFirst
-http://190.61.41.182:8000/play/a2v9/index.m3u8
-#EXTINF:0,AMC HD
-http://190.61.41.182:8000/play/a379/index.m3u8
-#EXTINF:0,AXN SD
-http://190.61.41.182:8000/play/a369/index.m3u8
-#EXTINF:0,America TV PY
-http://190.61.41.182:8000/play/a1xn/index.m3u8
-#EXTINF:0,Animal Planet
-http://190.61.41.182:8000/play/a35p/index.m3u8
-#EXTINF:0,CNN Espanol
-http://190.61.41.182:8000/play/a352/index.m3u8
-#EXTINF:0,Canal Caracol EMM1-CNX
-http://190.61.41.182:8000/play/a1ua/index.m3u8
-#EXTINF:0,Canal Claro
-http://190.61.41.182:8000/play/a17x/index.m3u8
-#EXTINF:0,Canal Estrellas
-http://190.61.41.182:8000/play/a362/index.m3u8
-#EXTINF:0,Canal Institucional
-http://190.61.41.182:8000/play/a1ue/index.m3u8
-#EXTINF:0,Canal RCN EMM1-CNX 2
-http://190.61.41.182:8000/play/a1ub/index.m3u8
-#EXTINF:0,Canal Uno
-http://190.61.41.182:8000/play/a1u8/index.m3u8
-#EXTINF:0,Canal del Congreso
-http://190.61.41.182:8000/play/a1uf/index.m3u8
-#EXTINF:0,Capital
-http://190.61.41.182:8000/play/a1uq/index.m3u8
-#EXTINF:0,Caracol HD
-http://190.61.41.182:8000/play/a35m/index.m3u8
-#EXTINF:0,Cartoon Network
-http://190.61.41.182:8000/play/a1o6/index.m3u8
-#EXTINF:0,Cine Latino
-http://190.61.41.182:8000/play/a36v/index.m3u8
-#EXTINF:0,CineMax
-http://190.61.41.182:8000/play/a36w/index.m3u8
-#EXTINF:0,Cinecanal
-http://190.61.41.182:8000/play/a185/index.m3u8
-#EXTINF:0,Cinemax
-http://190.61.41.182:8000/play/a367/index.m3u8
-#EXTINF:0,City TV
-http://190.61.41.182:8000/play/a1up/index.m3u8
-#EXTINF:0,Claro Sports
-http://190.61.41.182:8000/play/a1o7/index.m3u8
-#EXTINF:0,DHE HD
-http://190.61.41.182:8000/play/a37c/index.m3u8
-#EXTINF:0,Discovery Channel
-http://190.61.41.182:8000/play/a35o/index.m3u8
-#EXTINF:0,Discovery ID
-http://190.61.41.182:8000/play/a19w/index.m3u8
-#EXTINF:0,Discovery Kids
-http://190.61.41.182:8000/play/a351/index.m3u8
-#EXTINF:0,Discovery Turbo
-http://190.61.41.182:8000/play/a36j/index.m3u8
-#EXTINF:0,Disney Channel
-http://190.61.41.182:8000/play/a35n/index.m3u8
-#EXTINF:0,Disney Jr
-http://190.61.41.182:8000/play/a35e/index.m3u8
-#EXTINF:0,E Entertainment
-http://190.61.41.182:8000/play/a35r/index.m3u8
-#EXTINF:0,ESPN
-http://190.61.41.182:8000/play/a35u/index.m3u8
-#EXTINF:0,ESPN 2
-http://190.61.41.182:8000/play/a35h/index.m3u8
-#EXTINF:0,ESPN 2 HD
-http://190.61.41.182:8000/play/a37h/index.m3u8
-#EXTINF:0,ESPN 2 Latin
-http://190.61.41.182:8000/play/a35t/index.m3u8
-#EXTINF:0,ESPN 3
-http://190.61.41.182:8000/play/a36l/index.m3u8
-#EXTINF:0,ESPN 3 HD
-http://190.61.41.182:8000/play/a37g/index.m3u8
-#EXTINF:0,ESPN 4
-http://190.61.41.182:8000/play/a36t/index.m3u8
-#EXTINF:0,ESPN 4  HD
-http://190.61.41.182:8000/play/a374/index.m3u8
-#EXTINF:0,ESPN CO
-http://190.61.41.182:8000/play/a1uj/index.m3u8
-#EXTINF:0,ESPN HD
-http://190.61.41.182:8000/play/a37f/index.m3u8
-#EXTINF:0,Enlace
-http://190.61.41.182:8000/play/a18f/index.m3u8
-#EXTINF:0,FOX SPORTS 3 HD
-http://190.61.41.182:8000/play/a37i/index.m3u8
-#EXTINF:0,FX
-http://190.61.41.182:8000/play/a36b/index.m3u8
-#EXTINF:0,FX HD
-http://190.61.41.182:8000/play/a37a/index.m3u8
-#EXTINF:0,Film & arts HD
-http://190.61.41.182:8000/play/a377/index.m3u8
-#EXTINF:0,Fox Sports 1 HD
-http://190.61.41.182:8000/play/a37v/index.m3u8
-#EXTINF:0,Fox Sports 2
-http://190.61.41.182:8000/play/a363/index.m3u8
-#EXTINF:0,Fox Sports 3
-http://190.61.41.182:8000/play/a364/index.m3u8
-#EXTINF:0,HBO
-http://190.61.41.182:8000/play/a366/index.m3u8
-#EXTINF:0,HBO 2
-http://190.61.41.182:8000/play/a35a/index.m3u8
-#EXTINF:0,HBO Family
-http://190.61.41.182:8000/play/a35d/index.m3u8
-#EXTINF:0,HBO Plus
-http://190.61.41.182:8000/play/a371/index.m3u8
-#EXTINF:0,HBO Plus
-http://190.61.41.182:8000/play/a35b/index.m3u8
-#EXTINF:0,HBO XTREME
-http://190.61.41.182:8000/play/a373/index.m3u8
-#EXTINF:0,HBO XTREME SD
-http://190.61.41.182:8000/play/a35c/index.m3u8
-#EXTINF:0,History Channel
-http://190.61.41.182:8000/play/a184/index.m3u8
-#EXTINF:0,HomeandHealth
-http://190.61.41.182:8000/play/a2ed/index.m3u8
-#EXTINF:0,I-Sat
-http://190.61.41.182:8000/play/a1iy/index.m3u8
-#EXTINF:0,Lifetime
-http://190.61.41.182:8000/play/a2va/index.m3u8
-#EXTINF:0,MTV
-http://190.61.41.182:8000/play/a1iz/index.m3u8
-#EXTINF:0,Multicinema
-http://190.61.41.182:8000/play/a37o/index.m3u8
-#EXTINF:0,Multipremier
-http://190.61.41.182:8000/play/a36u/index.m3u8
-#EXTINF:0,Nat Geo
-http://190.61.41.182:8000/play/a1o3/index.m3u8
-#EXTINF:0,Nat Geo HD
-http://190.61.41.182:8000/play/a37j/index.m3u8
-#EXTINF:0,Nick Jr
-http://190.61.41.182:8000/play/a36i/index.m3u8
-#EXTINF:0,Nickelodeon
-http://190.61.41.182:8000/play/a18g/index.m3u8
-#EXTINF:0,Paramount HD
-http://190.61.41.182:8000/play/a37k/index.m3u8
-#EXTINF:0,RCN HD
-http://190.61.41.182:8000/play/a36r/index.m3u8
-#EXTINF:0,RCN Novelas
-http://190.61.41.182:8000/play/a1pn/index.m3u8
-#EXTINF:0,SPACE HD
-http://190.61.41.182:8000/play/a376/index.m3u8
-#EXTINF:0,STAR CHANNEL
-http://190.61.41.182:8000/play/a1j1/index.m3u8
-#EXTINF:0,Senal Colombia
-http://190.61.41.182:8000/play/a1ug/index.m3u8
-#EXTINF:0,Sin Limites
-http://190.61.41.182:8000/play/a1xm/index.m3u8
-#EXTINF:0,Sony
-http://190.61.41.182:8000/play/a368/index.m3u8
-#EXTINF:0,Sony Movies HD
-http://190.61.41.182:8000/play/a37b/index.m3u8
-#EXTINF:0,Space
-http://190.61.41.182:8000/play/a36a/index.m3u8
-#EXTINF:0,Studio Universal
-http://190.61.41.182:8000/play/a35g/index.m3u8
-#EXTINF:0,SyFy
-http://190.61.41.182:8000/play/a2rn/index.m3u8
-#EXTINF:0,TBS
-http://190.61.41.182:8000/play/a19x/index.m3u8
-#EXTINF:0,TCM
-http://190.61.41.182:8000/play/a18a/index.m3u8
-#EXTINF:0,TLC
-http://190.61.41.182:8000/play/a360/index.m3u8
-#EXTINF:0,TNT
-http://190.61.41.182:8000/play/a1j5/index.m3u8
-#EXTINF:0,TNT Series HD
-http://190.61.41.182:8000/play/a37l/index.m3u8
-#EXTINF:0,TRO
-http://190.61.41.182:8000/play/a1un/index.m3u8
-#EXTINF:0,TV+ HD
-http://190.61.41.182:8000/play/a2nl/index.m3u8
-#EXTINF:0,TVE
-http://190.61.41.182:8000/play/a1ob/index.m3u8
-#EXTINF:0,Teleantioquia
-http://190.61.41.182:8000/play/a36c/index.m3u8
-#EXTINF:0,Telecafe
-http://190.61.41.182:8000/play/a36o/index.m3u8
-#EXTINF:0,Telecaribe
-http://190.61.41.182:8000/play/a36m/index.m3u8
-#EXTINF:0,Teleislas
-http://190.61.41.182:8000/play/a1uo/index.m3u8
-#EXTINF:0,Telemundo
-http://190.61.41.182:8000/play/a365/index.m3u8
-#EXTINF:0,Telemundo HD
-http://190.61.41.182:8000/play/a37e/index.m3u8
-#EXTINF:0,Telenovelas
-http://190.61.41.182:8000/play/a37z/index.m3u8
-#EXTINF:0,Telepacifico
-http://190.61.41.182:8000/play/a36e/index.m3u8
-#EXTINF:0,Trece
-http://190.61.41.182:8000/play/a36p/index.m3u8
-#EXTINF:0,UNIVERSAL CINEMA HD
-http://190.61.41.182:8000/play/a37n/index.m3u8
-#EXTINF:0,Universal
-http://190.61.41.182:8000/play/a186/index.m3u8
-#EXTINF:0,Univision HD
-http://190.61.41.182:8000/play/a37m/index.m3u8
-#EXTINF:0,Venus
-http://190.61.41.182:8000/play/a35z/index.m3u8
-#EXTINF:0,ViaX
-http://190.61.41.182:8000/play/a361/index.m3u8
-#EXTINF:0,Warner
-http://190.61.41.182:8000/play/a35q/index.m3u8
-#EXTINF:0,Win
-http://190.61.41.182:8000/play/a36d/index.m3u8
-#EXTINF:0,Win Sports+ HD
-http://190.61.41.182:8000/play/a2lo/index.m3u8
-#EXTINF:0,Zona Latina
-http://190.61.41.182:8000/play/a18k/index.m3u8
-#EXTINF:0,Zoom
-http://190.61.41.182:8000/play/a1um/index.m3u8
+#EXTINF:0,El sueño de los justos
+#EXTGRP:SANDMAN
+https://ia804706.us.archive.org/35/items/20230304_20230304_1211/Ver%20Sandman%201×1%20Gratis%20Latino%20HD%20PelisGratisHD%20Online.mp4
+#EXTINF:0,Anfitriones imperfectos
+#EXTGRP:SANDMAN
+https://ia804706.us.archive.org/31/items/20230304_20230304_1220/Ver%20Sandman%201×2%20Gratis%20Latino%20HD%20PelisGratisHD%20Online.mp4
+#EXTINF:0,Sueña conmigo
+#EXTGRP:SANDMAN
+https://ia601606.us.archive.org/19/items/ver-sandman-1x-3-gratis-latino-hd-pelis-gratis-hd-online/Ver%20Sandman%201×3%20Gratis%20Latino%20HD%20PelisGratisHD%20Online.mp4
+#EXTINF:0,Una esperanza en el infierno
+#EXTGRP:SANDMAN
+https://ia904705.us.archive.org/6/items/ver-sandman-1x-4-gratis-latino-hd-pelis-gratis-hd-online/Ver%20Sandman%201×4%20Gratis%20Latino%20HD%20PelisGratisHD%20Online.mp4
+#EXTINF:0,24 horas
+#EXTGRP:SANDMAN
+https://ia601604.us.archive.org/5/items/20230304_20230304_1331/Ver%20Sandman%201×5%20Gratis%20Latino%20HD%20PelisGratisHD%20Online.mp4
+#EXTINF:0,El sonido de sus alas
+#EXTGRP:SANDMAN
+https://ia804707.us.archive.org/22/items/20230304_20230304_1338/Ver%20Sandman%201×6%20Gratis%20Latino%20HD%20PelisGratisHD%20Online.mp4
+#EXTINF:0,La casa de muñecas
+#EXTGRP:SANDMAN
+https://ia804705.us.archive.org/13/items/20230304_20230304_1426/Ver%20Sandman%201×7%20Gratis%20Latino%20HD%20PelisGratisHD%20Online.mp4
+#EXTINF:0,Jugar a papás y mamás
+#EXTGRP:SANDMAN
+https://ia801609.us.archive.org/27/items/20230304_20230304_1437/Ver%20Sandman%201×8%20Gratis%20Latino%20HD%20PelisGratisHD%20Online.mp4
+#EXTINF:0,Coleccionistas
+#EXTGRP:SANDMAN
+https://ia804707.us.archive.org/10/items/20230304_20230304_1445/Ver%20Sandman%201×9%20Gratis%20Latino%20HD%20PelisGratisHD%20Online.mp4
+#EXTINF:0,Corazones perdidos
+#EXTGRP:SANDMAN
+https://ia601601.us.archive.org/34/items/20230304_20230304_1458/Ver%20Sandman%201×10%20Gratis%20Latino%20HD%20PelisGratisHD%20Online.mp4
+#EXTINF:0,Un Sueño de Mil Gatos
+#EXTGRP:SANDMAN
+https://ia804709.us.archive.org/32/items/20230304_20230304_1509/Ver%20Sandman%201×11%20Gratis%20Latino%20HD%20PelisGratisHD%20Online.mp4
+#EXTINF:0,1x1
+#EXTGRP:Drake y Josh
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Drake%20&amp;%20Josh%20(2004)%20%ef%bc%8fNickelodeon/Temporada%201/Drake%20y%20Josh%20-%201x01%20-%20Episodio%201.mp4
+#EXTINF:0,1x2
+#EXTGRP:Drake y Josh
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Drake%20&amp;%20Josh%20(2004)%20%ef%bc%8fNickelodeon/Temporada%201/Drake%20y%20Josh%20-%201x02%20-%20Episodio%202.mp4
+#EXTINF:0,1x3
+#EXTGRP:Drake y Josh
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Drake%20&amp;%20Josh%20(2004)%20%ef%bc%8fNickelodeon/Temporada%201/Drake%20y%20Josh%20-%201x03%20-%20Episodio%203.mp4
+#EXTINF:0,1x4
+#EXTGRP:Drake y Josh
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Drake%20&amp;%20Josh%20(2004)%20%ef%bc%8fNickelodeon/Temporada%201/Drake%20y%20Josh%20-%201x04%20-%20Episodio%204.mp4
+#EXTINF:0,1x5
+#EXTGRP:Drake y Josh
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Drake%20&amp;%20Josh%20(2004)%20%ef%bc%8fNickelodeon/Temporada%201/Drake%20y%20Josh%20-%201x05%20-%20Episodio%205.mp4
+#EXTINF:0,1x6
+#EXTGRP:Drake y Josh
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Drake%20&amp;%20Josh%20(2004)%20%ef%bc%8fNickelodeon/Temporada%201/Drake%20y%20Josh%20-%201x06%20-%20Episodio%206.mp4
+#EXTINF:0,2x1
+#EXTGRP:Drake y Josh
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Drake%20&amp;%20Josh%20(2004)%20%ef%bc%8fNickelodeon/Temporada%202/Drake%20y%20Josh%20-%202x01%20-%20Episodio%201.mp4
+#EXTINF:0,2x2
+#EXTGRP:Drake y Josh
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Drake%20&amp;%20Josh%20(2004)%20%ef%bc%8fNickelodeon/Temporada%202/Drake%20y%20Josh%20-%202x02%20-%20Episodio%202.mp4
+#EXTINF:0,2x3
+#EXTGRP:Drake y Josh
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Drake%20&amp;%20Josh%20(2004)%20%ef%bc%8fNickelodeon/Temporada%202/Drake%20y%20Josh%20-%202x03%20-%20Episodio%203.mp4
+#EXTINF:0,2x4
+#EXTGRP:Drake y Josh
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Drake%20&amp;%20Josh%20(2004)%20%ef%bc%8fNickelodeon/Temporada%202/Drake%20y%20Josh%20-%202x04%20-%20Episodio%204.mp4
+#EXTINF:0,2x5
+#EXTGRP:Drake y Josh
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Drake%20&amp;%20Josh%20(2004)%20%ef%bc%8fNickelodeon/Temporada%202/Drake%20y%20Josh%20-%202x05%20-%20Episodio%205.mp4
+#EXTINF:0,2x6
+#EXTGRP:Drake y Josh
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Drake%20&amp;%20Josh%20(2004)%20%ef%bc%8fNickelodeon/Temporada%202/Drake%20y%20Josh%20-%202x06%20-%20Episodio%206.mp4
+#EXTINF:0,2x7
+#EXTGRP:Drake y Josh
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Drake%20&amp;%20Josh%20(2004)%20%ef%bc%8fNickelodeon/Temporada%202/Drake%20y%20Josh%20-%202x07%20-%20Episodio%207.mp4
+#EXTINF:0,2x8
+#EXTGRP:Drake y Josh
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Drake%20&amp;%20Josh%20(2004)%20%ef%bc%8fNickelodeon/Temporada%202/Drake%20y%20Josh%20-%202x08%20-%20Episodio%208.mp4
+#EXTINF:0,2x9
+#EXTGRP:Drake y Josh
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Drake%20&amp;%20Josh%20(2004)%20%ef%bc%8fNickelodeon/Temporada%202/Drake%20y%20Josh%20-%202x09%20-%20Episodio%209.mp4
+#EXTINF:0,2x10
+#EXTGRP:Drake y Josh
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Drake%20&amp;%20Josh%20(2004)%20%ef%bc%8fNickelodeon/Temporada%202/Drake%20y%20Josh%20-%202x10%20-%20Episodio%2010.mp4
+#EXTINF:0,2x11
+#EXTGRP:Drake y Josh
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Drake%20&amp;%20Josh%20(2004)%20%ef%bc%8fNickelodeon/Temporada%202/Drake%20y%20Josh%20-%202x11%20-%20Episodio%2011.mp4
+#EXTINF:0,2x12
+#EXTGRP:Drake y Josh
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Drake%20&amp;%20Josh%20(2004)%20%ef%bc%8fNickelodeon/Temporada%202/Drake%20y%20Josh%20-%202x12%20-%20Episodio%2012.mp4
+#EXTINF:0,2x13
+#EXTGRP:Drake y Josh
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Drake%20&amp;%20Josh%20(2004)%20%ef%bc%8fNickelodeon/Temporada%202/Drake%20y%20Josh%20-%202x13%20-%20Episodio%2013.mp4
+#EXTINF:0,2x14
+#EXTGRP:Drake y Josh
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Drake%20&amp;%20Josh%20(2004)%20%ef%bc%8fNickelodeon/Temporada%202/Drake%20y%20Josh%20-%202x14%20-%20Episodio%2014.mp4
+#EXTINF:0,La desaparición de Will Byers
+#EXTGRP:STRANGER THINGS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/STRANGER%20THINGS/TEMPORADA%201%20(720)/STRANGER%20THINGS%20S01E01.mp4
+#EXTINF:0,La loca de la calle Maple
+#EXTGRP:STRANGER THINGS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/STRANGER%20THINGS/TEMPORADA%201%20(720)/STRANGER%20THINGS%20S01E02.mp4
+#EXTINF:0,Todo está bien
+#EXTGRP:STRANGER THINGS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/STRANGER%20THINGS/TEMPORADA%201%20(720)/STRANGER%20THINGS%20S01E03.mp4
+#EXTINF:0,El cuerpo
+#EXTGRP:STRANGER THINGS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/STRANGER%20THINGS/TEMPORADA%201%20(720)/STRANGER%20THINGS%20S01E04.mp4
+#EXTINF:0,La pulga y el acróbata
+#EXTGRP:STRANGER THINGS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/STRANGER%20THINGS/TEMPORADA%201%20(720)/STRANGER%20THINGS%20S01E05.mp4
+#EXTINF:0,El monstruo
+#EXTGRP:STRANGER THINGS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/STRANGER%20THINGS/TEMPORADA%201%20(720)/STRANGER%20THINGS%20S01E06.mp4
+#EXTINF:0,La bañera
+#EXTGRP:STRANGER THINGS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/STRANGER%20THINGS/TEMPORADA%201%20(720)/STRANGER%20THINGS%20S01E07.mp4
+#EXTINF:0,El otro lado
+#EXTGRP:STRANGER THINGS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/STRANGER%20THINGS/TEMPORADA%201%20(720)/STRANGER%20THINGS%20S01E08.mp4
+#EXTINF:0,MADMAX
+#EXTGRP:STRANGER THINGS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/STRANGER%20THINGS/TEMPORADA%202%20(720)/STRANGER%20THINGS%20S02E01.mp4
+#EXTINF:0,Dulce o truco  bicho raro
+#EXTGRP:STRANGER THINGS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/STRANGER%20THINGS/TEMPORADA%202%20(720)/STRANGER%20THINGS%20S02E02.mp4
+#EXTINF:0,El renacuajo
+#EXTGRP:STRANGER THINGS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/STRANGER%20THINGS/TEMPORADA%202%20(720)/STRANGER%20THINGS%20S02E03.mp4
+#EXTINF:0,Will el Sabio
+#EXTGRP:STRANGER THINGS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/STRANGER%20THINGS/TEMPORADA%202%20(720)/STRANGER%20THINGS%20S02E04.mp4
+#EXTINF:0,Dig Dug
+#EXTGRP:STRANGER THINGS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/STRANGER%20THINGS/TEMPORADA%202%20(720)/STRANGER%20THINGS%20S02E05.mp4
+#EXTINF:0,El espía
+#EXTGRP:STRANGER THINGS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/STRANGER%20THINGS/TEMPORADA%202%20(720)/STRANGER%20THINGS%20S02E06.mp4
+#EXTINF:0,La hermana perdida
+#EXTGRP:STRANGER THINGS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/STRANGER%20THINGS/TEMPORADA%202%20(720)/STRANGER%20THINGS%20S02E07.mp4
+#EXTINF:0,El azotamentes
+#EXTGRP:STRANGER THINGS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/STRANGER%20THINGS/TEMPORADA%202%20(720)/STRANGER%20THINGS%20S02E08.mp4
+#EXTINF:0,El portal
+#EXTGRP:STRANGER THINGS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/STRANGER%20THINGS/TEMPORADA%202%20(720)/STRANGER%20THINGS%20S02E09.mp4
+#EXTINF:0,Me copias Suzie
+#EXTGRP:STRANGER THINGS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/STRANGER%20THINGS/TEMPORADA%203%20(720)/STRANGER%20THINGS%20S03E01.mp4
+#EXTINF:0,Ratas de centro comercial
+#EXTGRP:STRANGER THINGS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/STRANGER%20THINGS/TEMPORADA%203%20(720)/STRANGER%20THINGS%20S03E02.mp4
+#EXTINF:0,El caso de la guardavidas perdida
+#EXTGRP:STRANGER THINGS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/STRANGER%20THINGS/TEMPORADA%203%20(720)/STRANGER%20THINGS%20S03E03.mp4
+#EXTINF:0,La prueba del sauna
+#EXTGRP:STRANGER THINGS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/STRANGER%20THINGS/TEMPORADA%203%20(720)/STRANGER%20THINGS%20S03E04.mp4
+#EXTINF:0,Los desollados
+#EXTGRP:STRANGER THINGS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/STRANGER%20THINGS/TEMPORADA%203%20(720)/STRANGER%20THINGS%20S03E05.mp4
+#EXTINF:0,E pluribus unum
+#EXTGRP:STRANGER THINGS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/STRANGER%20THINGS/TEMPORADA%203%20(720)/STRANGER%20THINGS%20S03E06.mp4
+#EXTINF:0,La picadura
+#EXTGRP:STRANGER THINGS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/STRANGER%20THINGS/TEMPORADA%203%20(720)/STRANGER%20THINGS%20S03E07.mp4
+#EXTINF:0,La batalla de Starcourt
+#EXTGRP:STRANGER THINGS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/STRANGER%20THINGS/TEMPORADA%203%20(720)/STRANGER%20THINGS%20S03E08.mp4
+#EXTINF:0,El club
+#EXTGRP:STRANGER THINGS
+http://45.179.164.59:8181/Series/Stranger%20Things%20(2016)/Temporada%204/Stranger.Things.S04E01.NF.1080p.WWW.pelisenhd.NET.mkv
+#EXTINF:0,La maldición de Vecna
+#EXTGRP:STRANGER THINGS
+http://45.179.164.59:8181/Series/Stranger%20Things%20(2016)/Temporada%204/Stranger.Things.S04E02.NF.1080p.WWW.pelisenhd.NET.mkv
+#EXTINF:0,Monstruo o superheroína
+#EXTGRP:STRANGER THINGS
+http://45.179.164.59:8181/Series/Stranger%20Things%20(2016)/Temporada%204/Stranger.Things.S04E03.NF.1080p.WWW.pelisenhd.NET.mkv
+#EXTINF:0,Querido Billy
+#EXTGRP:STRANGER THINGS
+http://45.179.164.59:8181/Series/Stranger%20Things%20(2016)/Temporada%204/Stranger.Things.S04E04.NF.1080p.WWW.pelisenhd.NET.mkv
+#EXTINF:0,Proyecto Nina
+#EXTGRP:STRANGER THINGS
+http://45.179.164.59:8181/Series/Stranger%20Things%20(2016)/Temporada%204/Stranger.Things.S04E05.NF.1080p.WWW.pelisenhd.NET.mkv
+#EXTINF:0,En lo profundo
+#EXTGRP:STRANGER THINGS
+http://45.179.164.59:8181/Series/Stranger%20Things%20(2016)/Temporada%204/Stranger.Things.S04E06.NF.1080p.WWW.pelisenhd.NET.mkv
+#EXTINF:0,Masacre en el laboratorio Hawkins
+#EXTGRP:STRANGER THINGS
+http://45.179.164.59:8181/Series/Stranger%20Things%20(2016)/Temporada%204/Stranger.Things.S04E07.NF.1080p.WWW.pelisenhd.NET.mkv
+#EXTINF:0,Papá
+#EXTGRP:STRANGER THINGS
+http://45.179.164.59:8181/Series/Stranger%20Things%20(2016)/Temporada%204/Stranger.Things.S04E08.Cap%c3%adtulo%c2%a0ocho..Pap%c3%a1.NF.1080p.Latino.WWW.pelisenhd.NET.mkv
+#EXTINF:0,El huésped
+#EXTGRP:STRANGER THINGS
+http://45.179.164.59:8181/Series/Stranger%20Things%20(2016)/Temporada%204/Stranger.Things.S04E09.Cap%c3%adtulo%c2%a0nueve..El.hu%c3%a9sped.NF.1080p.Latino.WWW.pelisenhd.NET.mkv
+#EXTINF:0,S01E64
+#EXTGRP:STRANGER THINGS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E64.mkv
+#EXTINF:0,S01E01
+#EXTGRP:NARCOS MEXICO
+http://45.179.164.59:8181/Series/Narcos%20Mexico%20(2018)/Season%201/Narcos%20Mexico%20S01E01.mkv
+#EXTINF:0,S01E02
+#EXTGRP:NARCOS MEXICO
+http://45.179.164.59:8181/Series/Narcos%20Mexico%20(2018)/Season%201/Narcos%20Mexico%20S01E02.mkv
+#EXTINF:0,S01E03
+#EXTGRP:NARCOS MEXICO
+http://45.179.164.59:8181/Series/Narcos%20Mexico%20(2018)/Season%201/Narcos%20Mexico%20S01E03.mkv
+#EXTINF:0,S01E04
+#EXTGRP:NARCOS MEXICO
+http://45.179.164.59:8181/Series/Narcos%20Mexico%20(2018)/Season%201/Narcos%20Mexico%20S01E04.mkv
+#EXTINF:0,S01E05
+#EXTGRP:NARCOS MEXICO
+http://45.179.164.59:8181/Series/Narcos%20Mexico%20(2018)/Season%201/Narcos%20Mexico%20S01E05.mkv
+#EXTINF:0,S01E06
+#EXTGRP:NARCOS MEXICO
+http://45.179.164.59:8181/Series/Narcos%20Mexico%20(2018)/Season%201/Narcos%20Mexico%20S01E06.mkv
+#EXTINF:0,S01E07
+#EXTGRP:NARCOS MEXICO
+http://45.179.164.59:8181/Series/Narcos%20Mexico%20(2018)/Season%201/Narcos%20Mexico%20S01E07.mkv
+#EXTINF:0,S01E08
+#EXTGRP:NARCOS MEXICO
+http://45.179.164.59:8181/Series/Narcos%20Mexico%20(2018)/Season%201/Narcos%20Mexico%20S01E08.mkv
+#EXTINF:0,S01E09
+#EXTGRP:NARCOS MEXICO
+http://45.179.164.59:8181/Series/Narcos%20Mexico%20(2018)/Season%201/Narcos%20Mexico%20S01E09.mkv
+#EXTINF:0,S01E10
+#EXTGRP:NARCOS MEXICO
+http://45.179.164.59:8181/Series/Narcos%20Mexico%20(2018)/Season%201/Narcos%20Mexico%20S01E10.mkv
+#EXTINF:0,S02E01
+#EXTGRP:NARCOS MEXICO
+http://45.179.164.59:8181/Series/Narcos%20Mexico%20(2018)/Season%202/Narcos%20Mexico%20S02E01.mkv
+#EXTINF:0,S02E02
+#EXTGRP:NARCOS MEXICO
+http://45.179.164.59:8181/Series/Narcos%20Mexico%20(2018)/Season%202/Narcos%20Mexico%20S02E02.mkv
+#EXTINF:0,S02E03
+#EXTGRP:NARCOS MEXICO
+http://45.179.164.59:8181/Series/Narcos%20Mexico%20(2018)/Season%202/Narcos%20Mexico%20S02E03.mkv
+#EXTINF:0,S02E04
+#EXTGRP:NARCOS MEXICO
+http://45.179.164.59:8181/Series/Narcos%20Mexico%20(2018)/Season%202/Narcos%20Mexico%20S02E04.mkv
+#EXTINF:0,S02E05
+#EXTGRP:NARCOS MEXICO
+http://45.179.164.59:8181/Series/Narcos%20Mexico%20(2018)/Season%202/Narcos%20Mexico%20S02E05.mkv
+#EXTINF:0,S02E06
+#EXTGRP:NARCOS MEXICO
+http://45.179.164.59:8181/Series/Narcos%20Mexico%20(2018)/Season%202/Narcos%20Mexico%20S02E06.mkv
+#EXTINF:0,S02E07
+#EXTGRP:NARCOS MEXICO
+http://45.179.164.59:8181/Series/Narcos%20Mexico%20(2018)/Season%202/Narcos%20Mexico%20S02E07.mkv
+#EXTINF:0,S02E08
+#EXTGRP:NARCOS MEXICO
+http://45.179.164.59:8181/Series/Narcos%20Mexico%20(2018)/Season%202/Narcos%20Mexico%20S02E08.mkv
+#EXTINF:0,S02E09
+#EXTGRP:NARCOS MEXICO
+http://45.179.164.59:8181/Series/Narcos%20Mexico%20(2018)/Season%202/Narcos%20Mexico%20S02E09.mkv
+#EXTINF:0,S02E10
+#EXTGRP:NARCOS MEXICO
+http://45.179.164.59:8181/Series/Narcos%20Mexico%20(2018)/Season%202/Narcos%20Mexico%20S02E10.mkv
+#EXTINF:0,S014E02
+#EXTGRP:VECINOS
+https://tvinnov.online/SEIRES%202023/Vecinos%20Temporada%2014/Vecinos2.mp4
+#EXTINF:0,S03E13
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%203/Vecinos%20S03E13.mkv
+#EXTINF:0,S01E01
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E01.mkv
+#EXTINF:0,S01E02
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E02.mkv
+#EXTINF:0,S01E03
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E03.mkv
+#EXTINF:0,S01E04
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E04.mkv
+#EXTINF:0,S01E05
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E05.mkv
+#EXTINF:0,S01E06
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E06.mkv
+#EXTINF:0,S01E07
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E07.mkv
+#EXTINF:0,S01E08
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E08.mkv
+#EXTINF:0,S01E09
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E09.mkv
+#EXTINF:0,S01E10
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E10.mkv
+#EXTINF:0,S01E11
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E11.mkv
+#EXTINF:0,S01E12
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E12.mkv
+#EXTINF:0,S01E13
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E13.mkv
+#EXTINF:0,S01E14
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E14.mkv
+#EXTINF:0,S01E15
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E15.mkv
+#EXTINF:0,S01E16
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E16.mkv
+#EXTINF:0,S01E17
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E17.mkv
+#EXTINF:0,S01E18
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E18.mkv
+#EXTINF:0,S01E19
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E19.mkv
+#EXTINF:0,S01E20
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E20.mkv
+#EXTINF:0,S01E21
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E21.mkv
+#EXTINF:0,S01E22
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E22.mkv
+#EXTINF:0,S01E23
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E23.mkv
+#EXTINF:0,S01E24
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E24.mkv
+#EXTINF:0,S01E25
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E25.mkv
+#EXTINF:0,S01E26
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E26.mkv
+#EXTINF:0,S01E27
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E27.mkv
+#EXTINF:0,S01E28
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E28.mkv
+#EXTINF:0,S01E29
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E29.mkv
+#EXTINF:0,S01E30
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E30.mkv
+#EXTINF:0,S01E31
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E31.mkv
+#EXTINF:0,S01E32
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E32.mkv
+#EXTINF:0,S01E33
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E33.mkv
+#EXTINF:0,S01E34
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E34.mkv
+#EXTINF:0,S01E35
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E35.mkv
+#EXTINF:0,S01E36
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E36.mkv
+#EXTINF:0,S01E37
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E37.mkv
+#EXTINF:0,S01E38
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E38.mkv
+#EXTINF:0,S01E39
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E39.mkv
+#EXTINF:0,S01E40
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E40.mkv
+#EXTINF:0,S01E41
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E41.mkv
+#EXTINF:0,S01E42
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E42.mkv
+#EXTINF:0,S01E43
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E43.mkv
+#EXTINF:0,S01E44
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E44.mkv
+#EXTINF:0,S01E45
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E45.mkv
+#EXTINF:0,S01E46
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E46.mkv
+#EXTINF:0,S01E47
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E47.mkv
+#EXTINF:0,S01E48
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E48.mkv
+#EXTINF:0,S01E49
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E49.mkv
+#EXTINF:0,S01E50
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E50.mkv
+#EXTINF:0,S01E51
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E51.mkv
+#EXTINF:0,S01E52
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E52.mkv
+#EXTINF:0,S01E53
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E53.mkv
+#EXTINF:0,S01E54
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E54.mkv
+#EXTINF:0,S01E55
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E55.mkv
+#EXTINF:0,S01E56
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E56.mkv
+#EXTINF:0,S01E57
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E57.mkv
+#EXTINF:0,S01E58
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E58.mkv
+#EXTINF:0,S01E59
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E59.mkv
+#EXTINF:0,S01E60
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E60.mkv
+#EXTINF:0,S01E61
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E61.mkv
+#EXTINF:0,S01E62
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E62.mkv
+#EXTINF:0,S01E63
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E63.mkv
+#EXTINF:0,S01E64
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E64.mkv
+#EXTINF:0,S01E65
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E65.mkv
+#EXTINF:0,S01E66
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E66.mkv
+#EXTINF:0,S01E67
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E67.mkv
+#EXTINF:0,S01E68
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E68.mkv
+#EXTINF:0,S01E69
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E69.mkv
+#EXTINF:0,S02E01
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%202/Vecinos%20S02E01.mkv
+#EXTINF:0,S02E02
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%202/Vecinos%20S02E02.mkv
+#EXTINF:0,S02E03
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%202/Vecinos%20S02E03.mkv
+#EXTINF:0,S02E04
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%202/Vecinos%20S02E04.mkv
+#EXTINF:0,S02E05
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%202/Vecinos%20S02E05.mkv
+#EXTINF:0,S02E06
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%202/Vecinos%20S02E06.mkv
+#EXTINF:0,S02E07
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%202/Vecinos%20S02E07.mkv
+#EXTINF:0,S02E08
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%202/Vecinos%20S02E08.mkv
+#EXTINF:0,S02E09
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%202/Vecinos%20S02E09.mkv
+#EXTINF:0,S02E10
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%202/Vecinos%20S02E10.mkv
+#EXTINF:0,S02E11
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%202/Vecinos%20S02E11.mkv
+#EXTINF:0,S02E12
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%202/Vecinos%20S02E12.mkv
+#EXTINF:0,S02E13
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%202/Vecinos%20S02E13.mkv
+#EXTINF:0,S02E14
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%202/Vecinos%20S02E14.mkv
+#EXTINF:0,S02E15
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%202/Vecinos%20S02E15.mkv
+#EXTINF:0,S02E16
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%202/Vecinos%20S02E16.mkv
+#EXTINF:0,S02E17
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%202/Vecinos%20S02E17.mkv
+#EXTINF:0,S02E18
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%202/Vecinos%20S02E18.mkv
+#EXTINF:0,S02E19
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%202/Vecinos%20S02E19.mkv
+#EXTINF:0,S02E20
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%202/Vecinos%20S02E20.mkv
+#EXTINF:0,S02E21
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%202/Vecinos%20S02E21.mkv
+#EXTINF:0,S02E22
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%202/Vecinos%20S02E22.mkv
+#EXTINF:0,S02E23
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%202/Vecinos%20S02E23.mkv
+#EXTINF:0,S02E24
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%202/Vecinos%20S02E24.mkv
+#EXTINF:0,S03E01
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%203/Vecinos%20S03E01.mkv
+#EXTINF:0,S03E02
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%203/Vecinos%20S03E02.mkv
+#EXTINF:0,S03E03
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%203/Vecinos%20S03E03.mkv
+#EXTINF:0,S03E04
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%203/Vecinos%20S03E04.mkv
+#EXTINF:0,S03E05
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%203/Vecinos%20S03E05.mkv
+#EXTINF:0,S03E06
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%203/Vecinos%20S03E06.mkv
+#EXTINF:0,S03E07
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%203/Vecinos%20S03E07.mkv
+#EXTINF:0,S03E08
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%203/Vecinos%20S03E08.mkv
+#EXTINF:0,S03E09
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%203/Vecinos%20S03E09.mkv
+#EXTINF:0,S03E10
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%203/Vecinos%20S03E10.mkv
+#EXTINF:0,S03E11
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%203/Vecinos%20S03E11.mkv
+#EXTINF:0,S03E12
+#EXTGRP:VECINOS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%203/Vecinos%20S03E12.mkv
+#EXTINF:0,S014E01
+#EXTGRP:VECINOS
+https://tvinnov.online/SEIRES%202023/Vecinos%20Temporada%2014/Vecinos1.mp4
+#EXTINF:0,Vecinos 4x1
+#EXTGRP:VECINOS
+https://ia902601.us.archive.org/22/items/vecinos-4x-1/Vecinos_%204x1.mp4
+#EXTINF:0,Vecinos 4x2
+#EXTGRP:VECINOS
+https://ia902601.us.archive.org/22/items/vecinos-4x-1/Vecinos_%204x2.mp4
+#EXTINF:0,s1p1
+#EXTGRP:EL CHAPO
+http://74.208.251.230/Contenido/Series/ElChapo/Temporada1/s1p1.mp4
+#EXTINF:0,s1p2
+#EXTGRP:EL CHAPO
+http://74.208.251.230/Contenido/Series/ElChapo/Temporada1/s1p2.mp4
+#EXTINF:0,s1p3
+#EXTGRP:EL CHAPO
+http://74.208.251.230/Contenido/Series/ElChapo/Temporada1/s1p3.mp4
+#EXTINF:0,s1p4
+#EXTGRP:EL CHAPO
+http://74.208.251.230/Contenido/Series/ElChapo/Temporada1/s1p4.mp4
+#EXTINF:0,s1p5
+#EXTGRP:EL CHAPO
+http://74.208.251.230/Contenido/Series/ElChapo/Temporada1/s1p5.mp4
+#EXTINF:0,s1p6
+#EXTGRP:EL CHAPO
+http://74.208.251.230/Contenido/Series/ElChapo/Temporada1/s1p6.mp4
+#EXTINF:0,s1p7
+#EXTGRP:EL CHAPO
+http://74.208.251.230/Contenido/Series/ElChapo/Temporada1/s1p7.mp4
+#EXTINF:0,s1p8
+#EXTGRP:EL CHAPO
+http://74.208.251.230/Contenido/Series/ElChapo/Temporada1/s1p8.mkv
+#EXTINF:0,s1p9
+#EXTGRP:EL CHAPO
+http://74.208.251.230/Contenido/Series/ElChapo/Temporada1/s1p9.mkv
+#EXTINF:0,s2p1
+#EXTGRP:EL CHAPO
+http://74.208.251.230/Contenido/Series/ElChapo/Temporada2/s2p1.mkv
+#EXTINF:0,s2p2
+#EXTGRP:EL CHAPO
+http://74.208.251.230/Contenido/Series/ElChapo/Temporada2/s2p2.mkv
+#EXTINF:0,s2p3
+#EXTGRP:EL CHAPO
+http://74.208.251.230/Contenido/Series/ElChapo/Temporada2/s2p3.mkv
+#EXTINF:0,s2p4
+#EXTGRP:EL CHAPO
+http://74.208.251.230/Contenido/Series/ElChapo/Temporada2/s2p4.mkv
+#EXTINF:0,s2p5
+#EXTGRP:EL CHAPO
+http://74.208.251.230/Contenido/Series/ElChapo/Temporada2/s2p5.mkv
+#EXTINF:0,s2p6
+#EXTGRP:EL CHAPO
+http://74.208.251.230/Contenido/Series/ElChapo/Temporada2/s2p6.mkv
+#EXTINF:0,s2p7
+#EXTGRP:EL CHAPO
+http://74.208.251.230/Contenido/Series/ElChapo/Temporada2/s2p7.mkv
+#EXTINF:0,s2p8
+#EXTGRP:EL CHAPO
+http://74.208.251.230/Contenido/Series/ElChapo/Temporada2/s2p8.mkv
+#EXTINF:0,s2p9
+#EXTGRP:EL CHAPO
+http://74.208.251.230/Contenido/Series/ElChapo/Temporada2/s2p9.mkv
+#EXTINF:0,s2p10
+#EXTGRP:EL CHAPO
+http://74.208.251.230/Contenido/Series/ElChapo/Temporada2/s2p10.mkv
+#EXTINF:0,s2p11
+#EXTGRP:EL CHAPO
+http://74.208.251.230/Contenido/Series/ElChapo/Temporada2/s2p11.mkv
+#EXTINF:0,s2p12
+#EXTGRP:EL CHAPO
+http://74.208.251.230/Contenido/Series/ElChapo/Temporada2/s2p12.mkv
+#EXTINF:0,s3p1
+#EXTGRP:EL CHAPO
+http://74.208.251.230/Contenido/Series/ElChapo/Temporada3/s3p1.mkv
+#EXTINF:0,s3p2
+#EXTGRP:EL CHAPO
+http://74.208.251.230/Contenido/Series/ElChapo/Temporada3/s3p2.mkv
+#EXTINF:0,s3p3
+#EXTGRP:EL CHAPO
+http://74.208.251.230/Contenido/Series/ElChapo/Temporada3/s3p3.mkv
+#EXTINF:0,s3p4
+#EXTGRP:EL CHAPO
+http://74.208.251.230/Contenido/Series/ElChapo/Temporada3/s3p4.mkv
+#EXTINF:0,s3p5
+#EXTGRP:EL CHAPO
+http://74.208.251.230/Contenido/Series/ElChapo/Temporada3/s3p5.mkv
+#EXTINF:0,s3p6
+#EXTGRP:EL CHAPO
+http://74.208.251.230/Contenido/Series/ElChapo/Temporada3/s3p6.mkv
+#EXTINF:0,s3p7
+#EXTGRP:EL CHAPO
+http://74.208.251.230/Contenido/Series/ElChapo/Temporada3/s3p7.mkv
+#EXTINF:0,s3p8
+#EXTGRP:EL CHAPO
+http://74.208.251.230/Contenido/Series/ElChapo/Temporada3/s3p8.mkv
+#EXTINF:0,s3p9
+#EXTGRP:EL CHAPO
+http://74.208.251.230/Contenido/Series/ElChapo/Temporada3/s3p9.mkv
+#EXTINF:0,s3p10
+#EXTGRP:EL CHAPO
+http://74.208.251.230/Contenido/Series/ElChapo/Temporada3/s3p10.mkv
+#EXTINF:0,s3p11
+#EXTGRP:EL CHAPO
+http://74.208.251.230/Contenido/Series/ElChapo/Temporada3/s3p11.mkv
+#EXTINF:0,s3p12
+#EXTGRP:EL CHAPO
+http://74.208.251.230/Contenido/Series/ElChapo/Temporada3/s3p12.mkv
+#EXTINF:0,s3p13
+#EXTGRP:EL CHAPO
+http://74.208.251.230/Contenido/Series/ElChapo/Temporada3/s3p13.mkv
+#EXTINF:0,El problema del pececito
+#EXTGRP:CABALLERO LUNA
+https://ia902504.us.archive.org/9/items/moon-knight-s-01-/Moon%20Knight%20S01E04.mp4
+#EXTINF:0,Invoca el traje
+#EXTGRP:CABALLERO LUNA
+https://ia902504.us.archive.org/9/items/moon-knight-s-01-/Moon%20Knight%20S01E02.mkv.mp4
+#EXTINF:0,Alguien amistoso
+#EXTGRP:CABALLERO LUNA
+https://ia802504.us.archive.org/9/items/moon-knight-s-01-/Moon%20Knight%20S01E03.mp4
+#EXTINF:0,La Tumba
+#EXTGRP:CABALLERO LUNA
+https://ia802504.us.archive.org/9/items/moon-knight-s-01-/Moon%20Knight%20S01E04.mp4
+#EXTINF:0,El Sanatorio
+#EXTGRP:CABALLERO LUNA
+https://ia902504.us.archive.org/9/items/moon-knight-s-01-/Moon%20Knight%20S01E05.mp4
+#EXTINF:0,Dioses y monstruos
+#EXTGRP:CABALLERO LUNA
+https://ia902504.us.archive.org/9/items/moon-knight-s-01-/Moon.Knight.S01E06.mp4
+#EXTINF:0,Luces Fuera
+#EXTGRP:The Last of Us
+https://ia804700.us.archive.org/6/items/100088-01-01-l/%5B100088%5D%5B01%5D%5B01%5D%5BL%5D.mp4
+#EXTINF:0,Ruina
+#EXTGRP:The Last of Us
+https://ia804700.us.archive.org/6/items/100088-01-01-l/%5B100088%5D%5B01%5D%5B02%5D%5BL%5D.mp4
+#EXTINF:0,Doble Encabezado
+#EXTGRP:The Last of Us
+https://ia904700.us.archive.org/6/items/100088-01-01-l/%5B100088%5D%5B01%5D%5B03%5D%5BL%5D.mp4
+#EXTINF:0,Camino a ningun sitio
+#EXTGRP:The Last of Us
+https://ia904700.us.archive.org/6/items/100088-01-01-l/%5B100088%5D%5B01%5D%5B04%5D%5BL%5D.mp4
+#EXTINF:0,Resistir y sobrevivir
+#EXTGRP:The Last of Us
+https://ia904700.us.archive.org/6/items/100088-01-01-l/%5B100088%5D%5B01%5D%5B05%5D%5BL%5D.mp4
+#EXTINF:0,Familia
+#EXTGRP:The Last of Us
+https://ia804700.us.archive.org/6/items/100088-01-01-l/%5B100088%5D%5B01%5D%5B06%5D%5BL%5D.mp4
+#EXTINF:0,Dejado atrás
+#EXTGRP:The Last of Us
+https://ia904700.us.archive.org/6/items/100088-01-01-l/%5B100088%5D%5B01%5D%5B07%5D%5BL%5D.mp4
+#EXTINF:0,Cuando estamos en necesidad
+#EXTGRP:The Last of Us
+https://ia904700.us.archive.org/6/items/100088-01-01-l/%5B100088%5D%5B01%5D%5B08%5D%5BL%5D.mp4
+#EXTINF:0,busca la luz
+#EXTGRP:The Last of Us
+https://ia904700.us.archive.org/6/items/100088-01-01-l/%5B100088%5D%5B01%5D%5B09%5D%5BL%5D.mp4
+#EXTINF:0,Capitulo 1
+#EXTGRP:DAHMER
+https://ia904700.us.archive.org/20/items/dahmer-cap-1/dahmer%20cap%201.mp4
+#EXTINF:0,Capitulo 2 - Por favor, no te vayas
+#EXTGRP:DAHMER
+https://ia601408.us.archive.org/1/items/dahmer-por-favor-no-te-vayas/dahmer%20-Por%20favor%2C%20no%20te%20vayas.mp4
+#EXTINF:0,Capitulo 3 - Hacer un Dahmer
+#EXTGRP:DAHMER
+https://ia601502.us.archive.org/5/items/03_20221008/03.mp4
+#EXTINF:0,Capitulo 4 - La caja del buen chico
+#EXTGRP:DAHMER
+https://ia601508.us.archive.org/13/items/04_20221008/04.mp4
+#EXTINF:0,Capitulo 5 - Sangre en manos de otros
+#EXTGRP:DAHMER
+https://ia801503.us.archive.org/4/items/05_20221008/05.mp4
+#EXTINF:0,Capitulo 6 - Silenciado
+#EXTGRP:DAHMER
+https://ia601405.us.archive.org/34/items/06_20221008/06.mp4
+#EXTINF:0,Capitulo 7 - Cassandra
+#EXTGRP:DAHMER
+https://ia601501.us.archive.org/29/items/07_20221008_202210/07.mp4
+#EXTINF:0,Capitulo 8 - Lionel
+#EXTGRP:DAHMER
+https://ia601409.us.archive.org/2/items/08_20221008/08.mp4
+#EXTINF:0,Capitulo 9 - El hombre del saco
+#EXTGRP:DAHMER
+https://ia601508.us.archive.org/32/items/09_20221008/09.mp4
+#EXTINF:0,Capitulo 10 - Dios del perdón, dios de la venganza
+#EXTGRP:DAHMER
+https://ia801408.us.archive.org/16/items/10_20221008/10.mp4
+#EXTINF:0,Capitulo 1 - 1:23:45
+#EXTGRP:CHERNOBYL
+https://ia902308.us.archive.org/11/items/chernobyl.-1x-05.lati/Chernobyl.1x01.lati.mp4
+#EXTINF:0,Capitulo 2 - Por favor, mantengan la calma
+#EXTGRP:CHERNOBYL
+https://archive.org/download/chernobyl.-1x-05.lati/Chernobyl.1x02.lati.mp4
+#EXTINF:0,Capitulo 3 - Tierra, ábrete
+#EXTGRP:CHERNOBYL
+https://ia902308.us.archive.org/11/items/chernobyl.-1x-05.lati/Chernobyl.1x03.lati.mp4
+#EXTINF:0,Capitulo 4 - La felicidad de la humanidad
+#EXTGRP:CHERNOBYL
+https://ia802308.us.archive.org/11/items/chernobyl.-1x-05.lati/Chernobyl.1x04.lati.mp4
+#EXTINF:0,Capitulo 5 - Vichnaya Pamyat
+#EXTGRP:CHERNOBYL
+https://ia902308.us.archive.org/11/items/chernobyl.-1x-05.lati/Chernobyl.1x05.lati.mp4
+#EXTINF:0,Capitulo 1 - Las reglas del juego
+#EXTGRP:THE BOYS
+https://ia803405.us.archive.org/26/items/the.-boys.-1x-05.lati/The.Boys.1x01.lati.mp4
+#EXTINF:0,Capitulo 2 - Cherry
+#EXTGRP:THE BOYS
+https://ia803405.us.archive.org/26/items/the.-boys.-1x-05.lati/The.Boys.1x02.lati.mp4
+#EXTINF:0,Capitulo 3 - Moja (El Compuesto V)
+#EXTGRP:THE BOYS
+https://ia803405.us.archive.org/26/items/the.-boys.-1x-05.lati/The.Boys.1x03.lati.mp4
+#EXTINF:0,Capitulo 4 - La hembra de la especie
+#EXTGRP:THE BOYS
+https://ia803405.us.archive.org/26/items/the.-boys.-1x-05.lati/The.Boys.1x04..lati.mp4
+#EXTINF:0,Capitulo 5 - Bueno para el alma
+#EXTGRP:THE BOYS
+https://archive.org/download/the.-boys.-1x-05.lati/The.Boys.1x05.lati.mp4
+#EXTINF:0,Capitulo 6 - Los inocentes
+#EXTGRP:THE BOYS
+https://ia803405.us.archive.org/26/items/the.-boys.-1x-05.lati/The.Boys.1x06.lati.mp4
+#EXTINF:0,Capitulo 7 - La sociedad de la autopreservación
+#EXTGRP:THE BOYS
+https://ia903405.us.archive.org/26/items/the.-boys.-1x-05.lati/The.Boys.1x07.lati.mp4
+#EXTINF:0,Capitulo 8 - Me has encontrado
+#EXTGRP:THE BOYS
+https://ia803405.us.archive.org/26/items/the.-boys.-1x-05.lati/The.Boys.1x08.lati.mp4
+#EXTINF:0,Temp 2 _ Cap 1 - La gran carrera
+#EXTGRP:THE BOYS
+https://ia801806.us.archive.org/15/items/the.boys.-2x-001.lati/The.boys.2x001.lati.mp4
+#EXTINF:0,Temp 2 _ Cap 2 - Nada igual en el mundo
+#EXTGRP:THE BOYS
+https://ia601806.us.archive.org/15/items/the.boys.-2x-001.lati/The.boys.2x002.lati.mp4
+#EXTINF:0,Temp 2 _ Cap 3 - Sobre la colina con la Espada de Mil Hombres
+#EXTGRP:THE BOYS
+https://ia601806.us.archive.org/15/items/the.boys.-2x-001.lati/The.boys.2x003.lati.mp4
+#EXTINF:0,Temp 2 _ Cap 4 - Preparación y planificación adecuadas
+#EXTGRP:THE BOYS
+https://ia801806.us.archive.org/15/items/the.boys.-2x-001.lati/The.boys.2x04.lati.mp4
+#EXTINF:0,Temp 2 _ Cap 5 - Tenemos que irnos ahora
+#EXTGRP:THE BOYS
+https://ia801806.us.archive.org/15/items/the.boys.-2x-001.lati/The.Boys.2x05.lati.mp4
+#EXTINF:0,Temp 2 _ Cap 6 - Carnicero, panadero, fabricante de velas
+#EXTGRP:THE BOYS
+https://ia801806.us.archive.org/15/items/the.boys.-2x-001.lati/The.Boys.2x06.lati.mp4
+#EXTINF:0,Temp 2 _ Cap 7 - Las puertas ensangrentadas
+#EXTGRP:THE BOYS
+https://archive.org/download/the.boys.-2x-001.lati/The.boys.2x07.lati.mp4
+#EXTINF:0,Temp 2 _ Cap 8 - Lo que yo sé
+#EXTGRP:THE BOYS
+https://ia801806.us.archive.org/15/items/the.boys.-2x-001.lati/The.boys.2x08.lati.mp4
+#EXTINF:0,Temp 3 _ Cap 1 - Revancha
+#EXTGRP:THE BOYS
+https://ia801504.us.archive.org/31/items/the.-boys.-3x-01.lati/The.Boys.3x01.lati.mp4
+#EXTINF:0,Temp 3 _ Cap 2 - El único hombre en el cielo
+#EXTGRP:THE BOYS
+https://ia601408.us.archive.org/8/items/the.-boys.-3x-02.lati/The.Boys.3x02.lati.mp4
+#EXTINF:0,Temp 3 _ Cap 3 - Costa Bereber
+#EXTGRP:THE BOYS
+https://ia601402.us.archive.org/24/items/the.-boys.-3x-03.lati/The.Boys.3x03.lati.mp4
+#EXTINF:0,Temp 3 - Cap 4 - Glorioso Plan de Cinco Años
+#EXTGRP:THE BOYS
+https://ia801501.us.archive.org/6/items/the.-boys.-3x-04.lati/The.Boys.3x04.lati.mp4
+#EXTINF:0,Temp 3 _ Cap 5 - La última vez para mirar a este mundo de mentiras
+#EXTGRP:THE BOYS
+https://ia601407.us.archive.org/22/items/the.-boys.-3x-05.lati/The.Boys.3x05.lati.mp4
+#EXTINF:0,Temp 3 - Cap 6 - Heroegasmo
+#EXTGRP:THE BOYS
+https://ia801403.us.archive.org/12/items/the.-boys.-3x-06.lati/The.Boys.3x06.lati.mp4
+#EXTINF:0,Temp 3 _ Cap 7 - Aquí viene una vela para iluminarte la cama
+#EXTGRP:THE BOYS
+https://ia902505.us.archive.org/10/items/the.-boys.-3x-07.lati/The.Boys.3x07.lati.mp4
+#EXTINF:0,Temp 3 _ Cap 8 - El salvaje instante al rojo blanco
+#EXTGRP:THE BOYS
+https://ia801503.us.archive.org/23/items/the.-boys.-3x-08.lati/The.Boys.3x08.lati.mp4
+#EXTINF:0,S01E25
+#EXTGRP:THE BOYS
+http://74.208.251.230/Contenidoplus/2%5d%20Series/All%20Series/Vecinos%20%ef%bc%8fSeries%20Retro/1080p/Temporada%201/Vecinos%20S01E25.mkv
